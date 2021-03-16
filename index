@@ -4,7 +4,7 @@
 Погода
 </title>
  <link rel="apple-touch-icon" sizes="180x180" href="/180x180.png"> 
- <meta http-equiv="refresh" content="0;https:pogoda.yandex.ru"/
+ <meta http-equiv="refresh" content="0;https:pogoda.yandex.ru"/>
 </head>
 <body>
 1
